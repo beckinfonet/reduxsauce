@@ -232,3 +232,6 @@ export default combineReducers({
   third: resettable(thirdReducer)
 })
 ```
+
+
+## Dispatch actions 
